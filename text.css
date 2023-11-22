@@ -3,9 +3,9 @@
 /*Defione a fonde dos elementod de dentro do body*/
 body {
   font-family: 'Roboto Mono', monospace;
-  background: #14B6BA;
+  background: #aaaaaa;
   width: 100%;
-  color: black;
+  color: rgb(56, 56, 56);
 }
 
 /*estiliza tosos os títulos h1*/
